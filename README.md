@@ -1,16 +1,9 @@
-# Flamework Template
+# Untitled Fighting Game
 
-👋 Hey! This is a pre-configured template you can use for your projects that use [Flamework](https://fireboltofdeath.dev/docs/flamework/).
+Roblox game made with [Flamework](https://fireboltofdeath.dev/docs/flamework/), written in TypeScript
 
-## Usage
+## Credits
 
-First, create the folder on your computer where you want your project to be stored.
+If it looks like this game took inspiration from somewhere, it probably did.
 
-Then, open a terminal at that directory and run the following commands:
-
-```console
-npx degit rbxts-flamework/template
-npm i
-```
-
-That's it! The template has been installed. For further information on how to use Flamework in your project, please see [here](https://fireboltofdeath.dev/docs/flamework).
+Lead Programmer - aguywhosaguy
