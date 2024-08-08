@@ -1,6 +1,6 @@
 # Untitled Fighting Game
 
-Roblox game made with [Flamework](https://fireboltofdeath.dev/docs/flamework/), written in TypeScript
+(Failed) Roblox game made with [Flamework](https://fireboltofdeath.dev/docs/flamework/), written in TypeScript
 
 ## Credits
 
